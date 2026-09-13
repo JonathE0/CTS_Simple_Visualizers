@@ -2,7 +2,6 @@
 """Interactive 1U CubeSat ideal cosine Sun-sensor laboratory.
 
 Run: python Cubesat_sun_sensor.py
-See README.md in this folder for setup and usage instructions.
 Then open http://127.0.0.1:8000 (opens automatically).
 Options: --port 8080 --host 0.0.0.0 --no-browser
 Python 3.10+; standard library only. All HTML/CSS/JS is embedded below.
