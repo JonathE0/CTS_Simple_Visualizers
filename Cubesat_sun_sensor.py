@@ -31,8 +31,8 @@ for full attitude determination.
 Reference: NASA, Small Spacecraft Technology State of the Art, GNC:
 https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control/
 
-Note that this was made entirely with AI, I do not take credit for this design only the idea of having a visualization for aid
-However, please feel free to edit this code and I would be happy to see what you can do with it. (Allow for error propagation, simulate real sensors etc)
+Note that this was made entirely with AI. I do not take credit for this design, only the idea of having a visualization for aid
+However, please feel free to edit this code, and I would be happy to see what you can do with it. (Allow for error propagation, simulate real sensors, add some actuators! etc)
 Jonathan
 """
 
